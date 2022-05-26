@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo du -a .
+chmod ls -all
