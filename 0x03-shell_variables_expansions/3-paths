@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d | wc -l
+export PATH=$PATH d | wc -l
